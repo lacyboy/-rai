@@ -1,0 +1,13 @@
+H:\suli\órai 2\test\bin\Debug\netcoreapp3.1\test.exe
+H:\suli\órai 2\test\bin\Debug\netcoreapp3.1\test.deps.json
+H:\suli\órai 2\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.json
+H:\suli\órai 2\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.dev.json
+H:\suli\órai 2\test\bin\Debug\netcoreapp3.1\test.dll
+H:\suli\órai 2\test\bin\Debug\netcoreapp3.1\test.pdb
+H:\suli\órai 2\test\obj\Debug\netcoreapp3.1\test.csprojAssemblyReference.cache
+H:\suli\órai 2\test\obj\Debug\netcoreapp3.1\test.AssemblyInfoInputs.cache
+H:\suli\órai 2\test\obj\Debug\netcoreapp3.1\test.AssemblyInfo.cs
+H:\suli\órai 2\test\obj\Debug\netcoreapp3.1\test.csproj.CoreCompileInputs.cache
+H:\suli\órai 2\test\obj\Debug\netcoreapp3.1\test.dll
+H:\suli\órai 2\test\obj\Debug\netcoreapp3.1\test.pdb
+H:\suli\órai 2\test\obj\Debug\netcoreapp3.1\test.genruntimeconfig.cache
